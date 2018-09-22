@@ -23,11 +23,28 @@ class Person extends \Faker\Provider\Person
      * {@link} http://masterrussian.com/aa031701a.shtml
      **/
     protected static $firstNameMale = array(
-        'Amal', 'Ashen', 'Anil', 'Asanka', 'Adithya', 'Anusha',
-        'Bhashitha', 'Bhagya', 'Binara',
-        'Chathura', 'Chamara', 'Chamod', 'Chamika', 'Chamikara', 'Chanaka',
-        'Namal', 'Sahan', 'Susil', 'Ranga', 'Rukman', 'Chathura', 'Lasitha', 'Yuresh', 'Narada', 'Lakshmen', 'Wishwa', 'Dharshana',
-        'Nevil', 'Viduranga', 'Nalaka', 'Shanaka', 'Pasan', 'Nilantha'
+        'Amal', 'Ashen', 'Anil', 'Asanka', 'Adithya', 'Anusha', 'Avantha', 'Anuhas', 'Amila', 'Ayesha', 'Adheesha', 'Akalanka', 'Anurudda', 'Achala', 'Anuranga', 'Amith', 'Arunoda', 'Aruna', 'Aravinda', 'Achintha', 'Asoka',
+        'Bhashitha', 'Bhagya', 'Binara', 'Bandu', 'Basuru', 'Bhathiya', 'Buddika', 'Buddadasa', 'Bimal', 'Bimalka',
+        'Chathura', 'Chamara', 'Chamod', 'Chamika', 'Chamikara', 'Chanaka', ' Chinthaka', 'Chameera', 'Chaveen', 'Chandrasena', 'Chandimal',
+        'Dhanushka', 'Dinesh', 'Dinusha', 'Danuka', 'Dammika', 'Dayan', 'Dakshina', 'Dilshan', 'Damith', 'Dasun', 'Dulshan', 'Dimuthu', 'Dulaj', 'Dharshana', 'Devinda', ' Duleepa',' Deshan', 'Dumindu', 'Dinuka', 'Deepal',
+        'Eranga', 'Eranda', 'Eranjan',
+        'Gayan', 'Gayeshan', 'Gayesha', 'Gihan', 'Gamini',
+        'Harsha', 'Hasitha', 'Hashan', 'Heshan', 'Hansana', 'Hansika', 'Hiran', 'Hirantha', 'Harshana',
+        'Iresh', 'Isuru', 'Ishan', 'Imalka', 'Iman', 'Isitha', 'Indika', 'Isira',
+        'Jehan', 'Janith', 'Janidu', 'Jayamal', 'Jayanil', 'Janitha', 'Janaka',
+        'Kamal', 'Kavinda', 'Kaveesha', 'Kosala', 'Krishan', 'Kushan', 'Kaumal', 'Kanishka', 'Kalindu', 'Kavindu', 'Kaviru', 'Keshan', 'Kalpana', 'Kasun', 'Keerthi', 'Kanchana',
+        'Lakmal', 'Lasandu', 'Lalith', 'Lasith', 'Lasitha', 'Livendra', 'Liyantha', 'Livindul', 'Lakshan', 'Lasantha', 'Lakshman', 'Lahiru',
+        'Manisha', 'Malith', 'Mohan', 'Mahesh', 'Mihindu', 'Mihira', 'Miyuru', 'Mahinda', 'Maduka', 'Malaka', 'Milhan',
+        'Namal', 'Nilanga', 'Nirosh', 'Niresh', 'Nimal', 'Nilatha', 'Nisitha', 'Nadun', 'Nisal', 'Narada', 'Nalaka', 'Nevil', 'Nimnada', 'Nalin', 'Nimantha', 'Nalaka', 'Nuwan', 'Nayanajith', 'Niluka', 'Nilantha', 'Nipun',
+        'Oshan', 'Owindu', 'Owantha',
+        'Pradeep', 'Prasad', 'Priyanga', 'Priyankara', 'Promod', 'Patalee', 'Purwika', 'Purna', 'Piumal', 'Prasanna', 'Prageeth', 'Praveen', 'Palitha', 'Pathum', 'Prashan', 'Pasindu',
+        'Ruwan', 'Rukshan', 'Randika', 'Ramesh', 'Ruwantha', 'Ruvindu', 'Roshan', 'Romesh', 'Rohitha', 'Rukman', 'Ranga', 'Ruchira', 'Ranil', 'Rajitha', 'Ruwandika', 'Rumesh',
+        'Sahan', 'Susil', 'Sathijee', 'Sampath', 'Sidath', 'Sudesh', 'Shreemal', 'Sudath', 'Susitha', 'Sudarshana', 'Sumudu', 'Siripala', 'Sanjeewa', 'Sujeewa', 'Suranga', 'Supun', 'Sajith', 'Samantha', 'Saman', 'Shanilka', 'Sanka', 'Sumith',
+        'Theekshana', 'Tharindu', 'Thejan', 'Thimira', 'Thanuka', 'Thiwanka', ' Tharaka', 'Thilak', 'Thameera', 'Thisara', 'Thilan', 'Thiunuwan',
+        'Uditha', 'Udayanga', 'Umesh', ' Upali', 'Udaya',
+        'Vishwa', 'Vidwa', 'Varuna', 'Viduranga', 'Vidura',
+        'Wasantha', 'Wageesha', 'Wikum',
+        'Yuresh', 'Yohan', 'Yeshan', 'Yasiru',
     );
 
     /**
